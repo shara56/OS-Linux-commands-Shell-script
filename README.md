@@ -2,8 +2,8 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
-## Developed By: HARINI.M.D
-## Reg.NO: 212222230043
+## Developed By: SHARANGINI.T.K
+## Reg.NO: 212222230181
 # AIM:
 To practice Linux Commands and Shell Scripting
 
